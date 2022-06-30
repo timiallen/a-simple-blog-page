@@ -1,0 +1,11 @@
+body{font-family:'helvetica neue' sans-serif}
+.container-fluid{padding-top:70px;padding-bottom:70px}
+.navbar-brand a{text-decoration:none;cursor:pointer}
+.navbar{padding-top:15px;padding-bottom:15px;border:0;border-radius:0;background-color:#dac3f1;margin-bottom:0;font-size:12px;letter-spacing:5px}
+.navbar-nav li a:hover{color:#B683E8!important}
+.footer-padding{padding-bottom:60px}
+.footer{position:absolute;text-align:center;bottom:0;width:100%;height:60px;background-color:#dac3f1}
+.footer p{margin-top:25px;font-size:1rem;color:grey}
+.btn{background-color:#dac3f1;border-radius:1rem;color:#000}
+.header{color:#B683E8}
+/* minfied */
